@@ -20,5 +20,69 @@
 </description>
     </item>
     
+    <item>
+      <title>关于我</title>
+      <link>http://pengpaige.github.io/BlogDeployed/about/</link>
+      <pubDate>Thu, 01 Jan 2015 08:55:31 +0800</pubDate>
+      
+      <guid>http://pengpaige.github.io/BlogDeployed/about/</guid>
+      <description>
+
+&lt;p class=&#34;message&#34;&gt;
+大家好，我是 澎湃哥，是一名在读研究生。
+&lt;/p&gt;
+
+&lt;h3 id=&#34;我的经历:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;我的经历&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2009-2013 中北大学电子信息工程专业&lt;/li&gt;
+&lt;li&gt;2014-至今 北京交通大学下一代互联网互联设备国家工程实验室&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;我的技能:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;我的技能&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;编程语言：C, Python, Scala，PHP, Java&amp;hellip;&lt;/li&gt;
+&lt;li&gt;SDN：熟悉 OpenFlow 协议，熟悉 POX 源码。&lt;/li&gt;
+&lt;li&gt;大数据平台应用开发：熟悉 Hadoop、Spark，熟悉 HDFS，Map/Reduce，HBase，Hive，YARN，写过一些 Hadoop 和 Spark 的应用。&lt;/li&gt;
+&lt;li&gt;熟悉 git 和 GitHub.&lt;/li&gt;
+&lt;li&gt;写过一点 PHP 的 Web 后端程序，了解一点 Html 和 CSS.&lt;/li&gt;
+&lt;li&gt;熟悉微信开发，做过一个 kindle 推送订阅号。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;生活中的我:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;生活中的我&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;喜欢鼓捣电子产品。&lt;/li&gt;
+&lt;li&gt;篮球打的还行。&lt;/li&gt;
+&lt;li&gt;喜欢看电影和美剧，偶尔也陪女票看国产剧。&lt;/li&gt;
+&lt;li&gt;喜欢思考，对未知世界保持好奇心。&lt;/li&gt;
+&lt;li&gt;喜欢玩游戏:LOL（囧）。&lt;/li&gt;
+&lt;li&gt;喜欢挑战。&lt;/li&gt;
+&lt;li&gt;有点宅。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;文章:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;文章&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pengpaige.sinaapp.com/pox%e4%bb%a3%e7%a0%81%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0/&#34;&gt;POX代码学习笔记&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;一些链接:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;一些链接&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;我的独立博客：&lt;a href=&#34;http://pengpaige.github.io/BlogDeployed&#34;&gt;Casmo Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;新浪微博：&lt;a href=&#34;http://weibo.com/1239789925&#34;&gt;weibo.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Github: &lt;a href=&#34;https://github.com/pengpaige&#34;&gt;github.com/pengpaige&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email：pengbo@bjtu.edu.cn&lt;/li&gt;
+&lt;li&gt;微信公众号：Casmo澎湃哥&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;声明:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;声明&lt;/h3&gt;
+
+&lt;p&gt;本博客所有文章皆为原创。转载请注明原文链接，并最好与本人联系。谢谢！&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
