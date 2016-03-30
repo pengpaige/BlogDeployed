@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>思想感悟 on Casmo Blog</title>
-    <link>http://pengpaige.github.io/BlogDeployed/categories/%E6%80%9D%E6%83%B3%E6%84%9F%E6%82%9F/</link>
-    <description>Recent content in 思想感悟 on Casmo Blog</description>
+    <title>技术文章 on Casmo Blog</title>
+    <link>http://pengpaige.github.io/BlogDeployed/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</link>
+    <description>Recent content in 技术文章 on Casmo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2015. All rights reserved.</copyright>
     <lastBuildDate>Thu, 24 Mar 2016 11:20:54 +0800</lastBuildDate>
-    <atom:link href="http://pengpaige.github.io/BlogDeployed/categories/%E6%80%9D%E6%83%B3%E6%84%9F%E6%82%9F/feed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pengpaige.github.io/BlogDeployed/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ambari安环境搭建和精神分裂</title>
