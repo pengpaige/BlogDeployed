@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Casmo Blog</title>
-    <link>http://pengpaige.github.io/BlogDeployed/post/</link>
-    <description>Recent content in Posts on Casmo Blog</description>
+    <title>技术文章 on Casmo Blog</title>
+    <link>http://pengpaige.github.io/BlogDeployed/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</link>
+    <description>Recent content in 技术文章 on Casmo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2015. All rights reserved.</copyright>
     <lastBuildDate>Thu, 24 Mar 2016 11:20:54 +0800</lastBuildDate>
-    <atom:link href="http://pengpaige.github.io/BlogDeployed/post/feed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pengpaige.github.io/BlogDeployed/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ambari安环境搭建和精神分裂</title>
@@ -134,16 +134,6 @@ priority=1
 之后执行命令&lt;code&gt;ambari-server setup&lt;/code&gt;进行 server 的配置，我这里为了快速装完只在 JDK 一项选择了输入本地的 JDK 目录，其他的设置全部使用了默认选项。具体的设置基本都是可以定制的，可以 google 一些资料自己设置。这里不再细说。
 另外有一个问题就是，当配置好之后 Amabri 会自动将主机名自改成 server 和 agent1,agnet2 也就是 hosts 文件里的最底层域名。
 好了，现在你可以体验一波 Ambari 的自动化集群安装和运维了，执行命令&lt;code&gt;ambari-server start&lt;/code&gt;，在浏览器输入 server 的 IP 地址加上端口号 8080 回车看看吧。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>博客托管到 github pages ,新的开始，加油！</title>
-      <link>http://pengpaige.github.io/BlogDeployed/2016/03/10/first/</link>
-      <pubDate>Fri, 11 Mar 2016 01:20:45 +0800</pubDate>
-      
-      <guid>http://pengpaige.github.io/BlogDeployed/2016/03/10/first/</guid>
-      <description>&lt;p&gt;把博客转移到github pages上来，新的开始，而且也再熟练一下git.&lt;/p&gt;
 </description>
     </item>
     
